@@ -1,0 +1,47 @@
+Gender,Age Group,District,Occupation,Education,Income range,Smartphone,Mobile banking user,Number of apps,First impression,Years,How often,How far,Rate,Easy to learn,Security,CounterVsMapp,Recommend
+Female,25 -35,Mullaitivu,Government Job,Degree or above,"30,000-70,000",Yes,Yes,4 +,Internet or Article,2+ years,Weekly  Several Times,1Km to 5Km,4,3,5,5,Yes
+Male,25 -35,Mullaitivu,Student,Degree or above,"100,000-150,000",Yes,Yes,4 +,Self,Below 1 year,Monthly Once,More than 5 Km,3,3,2,4,Yes
+Male,25 -35,Jaffna,Self-Employer,Degree or above,"30,000-70,000",Yes,Yes,4 +,Bank,2+ years,Weekly  Once,1Km to 5Km,4,5,3,1,Yes
+Female,18 - 25,Batticaloa,Student,Degree or above,Below 30000,Yes,Yes,1-4,Bank,Below 1 year,Monthly Several Times,100m to 1Km,4,3,5,2,No
+Male,18 - 25,Mullaitivu,Government Job,Degree or above,"100,000-150,000",Yes,Yes,1-4,Bank,Below 1 year,Daily Several Times,1Km to 5Km,5,5,5,5,Yes
+Female,18 - 25,Kalutara,Student,Degree or above,Below 30000,Yes,No,1-4,Advertisement,Below 1 year,Monthly Once,Less than 100m,1,3,2,2,Maybe
+Female,18 - 25,Mullaitivu,Student,Degree or above,"30,000-70,000",Yes,Yes,1-4,Internet or Article,2+ years,Monthly Several Times,100m to 1Km,5,4,4,3,Yes
+Female,25 -35,Jaffna,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,Below 1 year,Monthly Several Times,100m to 1Km,4,4,4,4,Yes
+Female,18 - 25,Colombo,Private Sector Job,Degree or above,"70,000-100,000",Yes,Yes,4 +,Friends,1-2 years,Daily Once,Less than 100m,5,3,4,4,Yes
+Male,25 -35,Jaffna,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Friends,1-2 years,Daily Several Times,1Km to 5Km,5,5,5,2,Yes
+Female,25 -35,Jaffna,Government Job,Degree or above,Below 30000,Yes,Yes,1-4,Bank,Below 1 year,Monthly Several Times,1Km to 5Km,4,4,5,4,Maybe
+Female,25 -35,Mullaitivu,Government Job,Degree or above,"30,000-70,000",Yes,Yes,4 +,Bank,2+ years,Weekly  Several Times,100m to 1Km,4,5,4,5,Yes
+Female,18 - 25,Ampara,Student,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,1-2 years,Daily Once,1Km to 5Km,5,5,3,4,Yes
+Female,25 -35,Kilinochchi,Private Sector Job,Degree or above,"30,000-70,000",Yes,Yes,4 +,Internet or Article,Below 1 year,Monthly Once,100m to 1Km,3,4,5,4,Maybe
+Male,18 - 25,Vavuniya,Private Sector Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,1-2 years,Daily Once,More than 5 Km,5,5,5,3,Yes
+Male,25 -35,Nuwara Eliya,Private Sector Job,Degree or above,"30,000-70,000",Yes,No,4 +,Self,1-2 years,Monthly Once,More than 5 Km,3,3,4,3,No
+Female,25 -35,Colombo,Private Sector Job,Degree or above,"100,000-150,000",Yes,Yes,4 +,Bank,2+ years,Weekly  Once,100m to 1Km,4,5,3,4,Yes
+Female,18 - 25,Nuwara Eliya,Student,Degree or above,"30,000-70,000",Yes,Yes,1-4,Friends,1-2 years,Weekly  Several Times,1Km to 5Km,5,5,3,4,Yes
+Male,18 - 25,Mullaitivu,Student,Degree or above,Below 30000,Yes,Yes,4 +,Self,2+ years,Monthly Several Times,1Km to 5Km,2,3,3,3,Yes
+Female,18 - 25,Kilinochchi,Student,Degree or above,Below 30000,Yes,Yes,1-4,Bank,Below 1 year,Monthly Once,100m to 1Km,1,5,4,4,Yes
+Female,25 -35,Kilinochchi,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,Below 1 year,Weekly  Several Times,100m to 1Km,3,4,4,2,Maybe
+Male,18 - 25,Jaffna,Student,Degree or above,Below 30000,Yes,Yes,1-4,Bank,2+ years,Monthly Once,1Km to 5Km,4,4,4,4,Yes
+Male,25 -35,Colombo,Private Sector Job,Degree or above,"100,000-150,000",Yes,Yes,4 +,Internet or Article,1-2 years,Weekly  Several Times,1Km to 5Km,4,5,3,3,Maybe
+Male,18 - 25,Mullaitivu,Student,Degree or above,Below 30000,Yes,Yes,4 +,Bank,1-2 years,Monthly Several Times,100m to 1Km,5,4,2,4,Yes
+Female,25 -35,Jaffna,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,Below 1 year,Weekly  Once,1Km to 5Km,4,3,4,3,Yes
+Male,25 -35,Jaffna,Student,Degree or above,Below 30000,Yes,Yes,4 +,Bank,2+ years,Weekly  Several Times,1Km to 5Km,3,4,4,5,Yes
+Female,25 -35,Colombo,Private Sector Job,Degree or above,"100,000-150,000",Yes,Yes,4 +,Bank,2+ years,Weekly  Once,100m to 1Km,4,5,3,4,Yes
+Female,25 -35,Mullaitivu,Private Sector Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,1-2 years,Daily Several Times,100m to 1Km,4,5,4,5,Yes
+Female,25 -35,Mullaitivu,Government Job,Degree or above,"30,000-70,000",Yes,Yes,4 +,Internet or Article,2+ years,Weekly  Several Times,1Km to 5Km,4,3,5,5,Yes
+Male,25 -35,Jaffna,Other,Degree or above,"30,000-70,000",Yes,Yes,4 +,Advertisement,2+ years,Weekly  Several Times,100m to 1Km,4,5,2,5,Yes
+Female,25 -35,Mullaitivu,Government Job,Degree or above,"70,000-100,000",Yes,Yes,4 +,Friends,1-2 years,Weekly  Several Times,100m to 1Km,4,5,2,4,Yes
+Female,25 -35,Colombo,Private Sector Job,Degree or above,"30,000-70,000",Yes,No,1-4,Friends,Below 1 year,Monthly Once,More than 5 Km,3,3,3,3,Maybe
+Male,25 -35,Mullaitivu,Private Sector Job,Degree or above,"70,000-100,000",Yes,Yes,4 +,Bank,2+ years,Daily Once,100m to 1Km,4,4,4,5,Yes
+Female,25 -35,Mullaitivu,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Bank,1-2 years,Weekly  Once,1Km to 5Km,4,5,1,4,Yes
+Male,25 -35,Jaffna,Government Job,Diploma,"30,000-70,000",Yes,Yes,4 +,Self,2+ years,Monthly Several Times,1Km to 5Km,5,5,5,5,Yes
+Female,25 -35,Jaffna,Government Job,Degree or above,"30,000-70,000",Yes,Yes,1-4,Advertisement,Below 1 year,Monthly Several Times,100m to 1Km,3,5,2,3,Yes
+Male,25 -35,Jaffna,Private Sector Job,Degree or above,"70,000-100,000",Yes,Yes,4 +,Advertisement,1-2 years,Weekly  Once,1Km to 5Km,4,4,4,3,Maybe
+Female,18 - 25,Jaffna,Other,A/L,Below 30000,Yes,Yes,1-4,Bank,Below 1 year,Daily Once,1Km to 5Km,3,4,4,5,Yes
+Male,25 -35,Mullaitivu,Private Sector Job,A/L,"30,000-70,000",Yes,Yes,1-4,Bank,Below 1 year,Weekly  Once,More than 5 Km,3,2,3,3,Maybe
+Female,25 -35,Jaffna,Private Sector Job,Degree or above,"30,000-70,000",Yes,Yes,4 +,Bank,2+ years,Monthly Once,100m to 1Km,5,5,4,3,Yes
+Male,25 -35,Colombo,Private Sector Job,Degree or above,"70,000-100,000",Yes,Yes,0,Friends,Below 1 year,Daily Once,1Km to 5Km,4,4,3,3,Yes
+Male,25 -35,Jaffna,Private Sector Job,Diploma,Below 30000,Yes,Yes,1-4,Bank,2+ years,Daily Once,1Km to 5Km,5,5,5,5,Yes
+Male,25 -35,Colombo,Private Sector Job,Degree or above,"150,000+",Yes,Yes,4 +,Bank,2+ years,Weekly  Several Times,1Km to 5Km,4,5,4,4,Yes
+Male,25 -35,Colombo,Private Sector Job,Degree or above,"70,000-100,000",Yes,Yes,0,Friends,Below 1 year,Daily Once,1Km to 5Km,4,4,3,3,Yes
+Male,25 -35,Colombo,Private Sector Job,Degree or above,"150,000+",Yes,Yes,4 +,Internet or Article,2+ years,Weekly  Once,100m to 1Km,4,4,3,4,Yes
+Female,25 -35,Kilinochchi,Government Job,Degree or above,"30,000-70,000",Yes,No,1-4,Friends,Below 1 year,Yearly  Once,More than 5 Km,4,4,3,5,Yes
